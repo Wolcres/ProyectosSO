@@ -1,0 +1,8 @@
+Carlos Ingeniero 20
+Sebastian Mecanico 25
+Andres Arquitecto 35
+Miguel Artista 43
+Laura Medico 23
+Sara Doctora 32
+Luis Veterinario 28
+Valentina Periodista 34

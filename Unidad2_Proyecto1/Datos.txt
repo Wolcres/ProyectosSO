@@ -1,0 +1,12 @@
+Jorge 20
+Sara 2
+Laura 7
+Mateo 98
+Fernando 75
+Juan 32
+Miguel 56
+Santiago 15
+Oscar 67
+Raul 5 
+Luigi 55
+Mario 43
