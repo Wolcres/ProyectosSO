@@ -6,3 +6,7 @@ Laura Medico 23
 Sara Doctora 32
 Luis Veterinario 28
 Valentina Periodista 34
+Enrique Conductor 20
+Sara Programadora 25
+Camila Bombera 38
+Javier Profesor 36
